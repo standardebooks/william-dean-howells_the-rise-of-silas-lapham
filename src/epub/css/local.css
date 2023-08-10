@@ -6,10 +6,6 @@ footer{
 	text-align: right;
 }
 
-[epub|type~="z3998:salutation"] + p{
-	text-indent: 0;
-}
-
 [epub|type~="z3998:sender"],
 [epub|type~="z3998:salutation"],
 [epub|type~="z3998:signature"]{
