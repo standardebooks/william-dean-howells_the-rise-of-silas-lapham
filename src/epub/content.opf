@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-dean-howells/the-rise-of-silas-lapham</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-08-11T19:42:17Z</dc:date>
+		<meta property="dcterms:modified">2023-08-11T19:42:17Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -47,17 +47,17 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2007102172</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A self-made man of the Gilded Age struggles to do what’s right when his business is in danger and his family faces an uncertain future.</dc:description>
+		<dc:description id="description">A self-made man in the Gilded Age struggles to do what’s right when his business is in danger and his family faces an uncertain future.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Silas Lapham’s long-lasting paint, made with minerals found on his family’s farm in Vermont, has helped make him a millionaire—as has hard work, ambition, and tough business sense. Now that he’s reached late middle age, he’s a success. A newspaper is writing him up in its “Solid Men of Boston” series, his family goes to seaside resorts in the summer, the scion of the aristocratic Covey family has joined his firm, his daughters have made inroads into 1880s society, and he’s even having a lavish house built in the newly fashionable Back Bay.&lt;/p&gt;
-			&lt;p&gt;It’s too good to last. Soon the Laphams must deal with long-simmering temptations that exist because of a ruthless decision made when his company was getting off the ground. How will they avoid a fall?&lt;/p&gt;
-			&lt;p&gt;In 1885, when &lt;em&gt;The Rise of Silas Lapham&lt;/em&gt; was published, &lt;a href="https://standardebooks.org/ebooks/william-dean-howells"&gt;William Dean Howells&lt;/a&gt; was in the middle of his own career, and it remains his best-known work. It endures because of its portrayal of the self-made man and the problems that success and competition bring.&lt;/p&gt;
+			&lt;p&gt;Silas Lapham’s long-lasting paint, made with minerals found on his family’s farm in Vermont, has helped make him a millionaire—as has hard work, ambition, and tough business sense. Now that he’s reached late middle age, he’s a success. A newspaper is writing him up in its “Solid Men of Boston” series, his family goes to seaside resorts in the summer, the scion of the aristocratic Covey family has joined his firm, his daughters have made inroads into 1880s society, and he’s even having a lavish house built in the newly-fashionable Back Bay.&lt;/p&gt;
+			&lt;p&gt;But it’s all too good to last. Soon the Laphams must deal with long-simmering temptations that exist because of a ruthless decision made when his company was getting off the ground. Will they avoid a fall?&lt;/p&gt;
+			&lt;p&gt;In 1885, when &lt;em&gt;The Rise of Silas Lapham&lt;/em&gt; was published, &lt;a href="https://standardebooks.org/ebooks/william-dean-howells"&gt;William Dean Howells&lt;/a&gt; was in the middle of his own career. The novel remains his best-known work, enduring in no small part because of its portrayal of the self-made man and the problems that success and competition bring.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/154</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.93815</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">133577</meta>
+		<meta property="se:reading-ease.flesch">81.02</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Rise_of_Silas_Lapham</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-dean-howells_the-rise-of-silas-lapham</meta>
 		<dc:creator id="author">William Dean Howells</dc:creator>
@@ -85,6 +85,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
